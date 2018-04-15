@@ -1,0 +1,477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Nighttime Simple Water
+  m_Shader: {fileID: 4800000, guid: 9dccc8e8f0da4494991c26ef59019551, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _NORMALMAP
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c2ef94ff9d11915d1100a04b44295342, type: 3}
+          m_Scale: {x: 200, y: 200}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+          m_Scale: {x: 200, y: 200}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectionTex
+        second:
+          m_Texture: {fileID: 2800000, guid: c2ef94ff9d11915d1100a04b44295342, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RefractionTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ShoreTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeTex
+        second:
+          m_Texture: {fileID: 8900000, guid: 006a5f739d1105f6a000538a2aef8c59, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WavesTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControlCube
+        second:
+          m_Texture: {fileID: 8900000, guid: 006a5f739d1105f6a000538a2aef8c59, type: 3}
+          m_Scale: {x: 200, y: 200}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControl
+        second:
+          m_Texture: {fileID: 2800000, guid: 401773664c0a76446bb6e692ac369621, type: 3}
+          m_Scale: {x: 200, y: 200}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap2
+        second:
+          m_Texture: {fileID: 2800000, guid: 279fb0a19d11d4a6d00051fa8d76c639, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorGradient
+        second:
+          m_Texture: {fileID: 2800000, guid: 8403d3349d112ba4d000be1be39e7c39, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Fresnel
+        second:
+          m_Texture: {fileID: 2800000, guid: c2ef94ff9d11915d1100a04b44295342, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectiveColor
+        second:
+          m_Texture: {fileID: 2800000, guid: c2ef94ff9d11915d1100a04b44295342, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _HeightTex
+        second:
+          m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FoamTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 401773664c0a76446bb6e692ac369621, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 10
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Shininess
+        second: .5
+      data:
+        first:
+          name: _FresnelScale
+        second: .75
+      data:
+        first:
+          name: _GerstnerIntensity
+        second: 1
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _ZWrite
+        second: 0
+      data:
+        first:
+          name: _Glossiness
+        second: .5
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 3
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _InvFade
+        second: 1
+      data:
+        first:
+          name: _WaveScale
+        second: .0362000018
+      data:
+        first:
+          name: _Highlight
+        second: 33.2075462
+      data:
+        first:
+          name: _bScale
+        second: .0629245341
+      data:
+        first:
+          name: _BumpPeturb
+        second: 82.07547
+      data:
+        first:
+          name: _BumpPeturb2
+        second: .745283008
+      data:
+        first:
+          name: _bTwirl
+        second: .0500000007
+      data:
+        first:
+          name: _distort
+        second: .100000001
+      data:
+        first:
+          name: _BumpStrength
+        second: .100000001
+      data:
+        first:
+          name: _ReflDistort
+        second: .140000001
+      data:
+        first:
+          name: _RefrDistort
+        second: .0769999996
+      data:
+        first:
+          name: _Refractivity
+        second: 31
+      data:
+        first:
+          name: _Ambient
+        second: 1
+      data:
+        first:
+          name: _Displacement
+        second: .300000012
+      data:
+        first:
+          name: _DisplacementTiling
+        second: 1
+      data:
+        first:
+          name: _InvFadeFoam
+        second: 1
+      data:
+        first:
+          name: _FresnelPower
+        second: 2
+      data:
+        first:
+          name: _ColorTextureOverlay
+        second: .75
+      data:
+        first:
+          name: _Speed
+        second: .379999995
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: .194474474, g: .575416923, b: .801470578, a: .934000015}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .625, g: .625, b: .625, a: .400000006}
+      data:
+        first:
+          name: _MainTex_ST
+        second: {r: 1, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: _DistortParams
+        second: {r: 1, g: 1, b: 2, a: 1.14999998}
+      data:
+        first:
+          name: _InvFadeParemeter
+        second: {r: .150000006, g: .150000006, b: .5, a: 1}
+      data:
+        first:
+          name: _AnimationTiling
+        second: {r: 2.20000005, g: 2.20000005, b: -1.10000002, a: -1.10000002}
+      data:
+        first:
+          name: _AnimationDirection
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _BumpTiling
+        second: {r: 1, g: 1, b: -2, a: 3}
+      data:
+        first:
+          name: _BumpDirection
+        second: {r: 1, g: 1, b: -1, a: 1}
+      data:
+        first:
+          name: _BaseColor
+        second: {r: .540000021, g: .949999988, b: .99000001, a: .5}
+      data:
+        first:
+          name: _ReflectionColor
+        second: {r: .540000021, g: .949999988, b: .99000001, a: .5}
+      data:
+        first:
+          name: _SpecularColor
+        second: {r: .720000029, g: .720000029, b: .720000029, a: 1}
+      data:
+        first:
+          name: _WorldLightDir
+        second: {r: 0, g: .100000001, b: .400000006, a: 44}
+      data:
+        first:
+          name: _Foam
+        second: {r: .100000001, g: .375, b: 0, a: 0}
+      data:
+        first:
+          name: _GAmplitude
+        second: {r: .300000012, g: .349999994, b: .25, a: .25}
+      data:
+        first:
+          name: _GFrequency
+        second: {r: 1.29999995, g: 1.35000002, b: 1.25, a: 1.25}
+      data:
+        first:
+          name: _GSteepness
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _GSpeed
+        second: {r: 1.20000005, g: 1.375, b: 1.10000002, a: 1.5}
+      data:
+        first:
+          name: _GDirectionAB
+        second: {r: .300000012, g: .850000024, b: .850000024, a: .25}
+      data:
+        first:
+          name: _GDirectionCD
+        second: {r: .100000001, g: .899999976, b: .5, a: .5}
+      data:
+        first:
+          name: _TintColor
+        second: {r: .5, g: .5, b: .5, a: .5}
+      data:
+        first:
+          name: _BumpMap_ST
+        second: {r: 1, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: WaveSpeed
+        second: {r: 3.5999999, g: -6.19999981, b: -4.19999981, a: 6.19999981}
+      data:
+        first:
+          name: _horizonColor
+        second: {r: .175173014, g: .28578034, b: .33088237, a: .650980413}
+      data:
+        first:
+          name: _ColorControl_ST
+        second: {r: 1, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: _ColorControlCube_ST
+        second: {r: 1, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: BumpParm
+        second: {r: 1, g: 1, b: -1, a: -1}
+      data:
+        first:
+          name: _EdgeColor
+        second: {r: 0, g: .100000001, b: 0, a: .100000001}
+      data:
+        first:
+          name: _RefTex_0
+        second: {r: -1517.37024, g: -23.9408531, b: -3154.91675, a: 2715.94165}
+      data:
+        first:
+          name: _RefTex_1
+        second: {r: 356.584351, g: -313.125671, b: -962.84906, a: 2791.50659}
+      data:
+        first:
+          name: _RefTex_2
+        second: {r: 4.95644999, g: -.187056601, b: -13.3834057, a: 20.1233597}
+      data:
+        first:
+          name: _RefTex_3
+        second: {r: 4.95595503, g: -.18703793, b: -13.3820696, a: 20.2213535}
+      data:
+        first:
+          name: horizonColor
+        second: {r: .61500001, g: .796000004, b: .875999987, a: 1}
+      data:
+        first:
+          name: uvParams
+        second: {r: 10, g: .0199999996, b: .0299999993, a: 0}
+      data:
+        first:
+          name: waveDirX
+        second: {r: -2.5, g: 0, b: 7, a: 8}
+      data:
+        first:
+          name: waveDirY
+        second: {r: 0, g: 1.5, b: -7, a: 1}
+      data:
+        first:
+          name: waveHeights
+        second: {r: .800000012, g: 1, b: .100000001, a: .0500000007}
+      data:
+        first:
+          name: _WaveSpeed
+        second: {r: 1, g: -1, b: -1, a: 1}
+      data:
+        first:
+          name: _RefrColor
+        second: {r: .340000004, g: .850000024, b: .920000017, a: 1}
+      data:
+        first:
+          name: _HorizonColor
+        second: {r: .172000006, g: .463, b: .435000002, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

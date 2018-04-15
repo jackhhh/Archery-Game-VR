@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 1927423b88dde864b8367d7275493c8a
+timeCreated: 1457086476
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bow
+    100002: bow2
+    100004: bow_1
+    100006: //RootNode
+    100008: group
+    100010: pasted__group3
+    100012: pasted__group5
+    100014: pasted__group6
+    100016: pasted__group7
+    100018: pasted__pasted__pasted__Forearm_LFT
+    100020: pasted__pasted__pasted__Index1_LFT
+    100022: pasted__pasted__pasted__Index2_LFT
+    100024: pasted__pasted__pasted__Index3_LFT
+    100026: pasted__pasted__pasted__Index4_LFT
+    100028: pasted__pasted__pasted__Middle1_LFT
+    100030: pasted__pasted__pasted__Middle2_LFT
+    100032: pasted__pasted__pasted__Middle3_LFT
+    100034: pasted__pasted__pasted__Middle4_LFT
+    100036: pasted__pasted__pasted__Palm_LFT
+    100038: pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+    100040: pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+    100042: pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+    100044: pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+    100046: pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+    100048: pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+    100050: pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+    100052: pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+    100054: pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+    100056: pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+    100058: pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+    100060: pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+    100062: pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+    100064: pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+    100066: pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+    100068: pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+    100070: pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+    100072: pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+    100074: pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+    100076: pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+    100078: pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+    100080: pasted__pasted__pasted__pasted__pasted__polySurface4
+    100082: pasted__pasted__pasted__pasted__pasted__polySurface6
+    100084: pasted__pasted__pasted__Pinky1_LFT
+    100086: pasted__pasted__pasted__Pinky2_LFT
+    100088: pasted__pasted__pasted__Pinky3_LFT
+    100090: pasted__pasted__pasted__Pinky4_LFT
+    100092: pasted__pasted__pasted__polySurface9
+    100094: pasted__pasted__pasted__Ring1_LFT
+    100096: pasted__pasted__pasted__Ring2_LFT
+    100098: pasted__pasted__pasted__Ring3_LFT
+    100100: pasted__pasted__pasted__Ring4_LFT
+    100102: pasted__pasted__pasted__Thumb1_LFT
+    100104: pasted__pasted__pasted__Thumb2_LFT
+    100106: pasted__pasted__pasted__Thumb3_LFT
+    100108: pasted__pasted__pasted__Thumb4_LFT
+    100110: pasted__pasted__polySurface6
+    100112: pasted__pasted__RightArmRoot
+    100114: pasted__transform1
+    100116: polySurface1
+    100118: polySurface2
+    100120: pasted__All
+    100122: pasted__ArmMeshes
+    100124: pasted__GunAndRightArm
+    100126: pasted__LeftArmRoot
+    100128: pasted__pasted__group
+    100130: pasted__pasted__pasted__pasted__Index1_LFT
+    100132: pasted__pasted__pasted__pasted__Index1_LFT1
+    100134: pasted__pasted__pasted__pasted__Index2_LFT
+    100136: pasted__pasted__pasted__pasted__Index2_LFT1
+    100138: pasted__pasted__pasted__pasted__Index3_LFT
+    100140: pasted__pasted__pasted__pasted__Index3_LFT1
+    100142: pasted__pasted__pasted__pasted__Index4_LFT
+    100144: pasted__pasted__pasted__pasted__Index4_LFT1
+    100146: pasted__pasted__pasted__pasted__Middle1_LFT
+    100148: pasted__pasted__pasted__pasted__Middle1_LFT1
+    100150: pasted__pasted__pasted__pasted__Middle2_LFT
+    100152: pasted__pasted__pasted__pasted__Middle2_LFT1
+    100154: pasted__pasted__pasted__pasted__Middle3_LFT
+    100156: pasted__pasted__pasted__pasted__Middle3_LFT1
+    100158: pasted__pasted__pasted__pasted__Middle4_LFT
+    100160: pasted__pasted__pasted__pasted__Middle4_LFT1
+    100162: pasted__pasted__pasted__pasted__Palm_LFT
+    100164: pasted__pasted__pasted__pasted__Palm_LFT1
+    100166: pasted__pasted__pasted__pasted__Pinky1_LFT
+    100168: pasted__pasted__pasted__pasted__Pinky1_LFT1
+    100170: pasted__pasted__pasted__pasted__Pinky2_LFT
+    100172: pasted__pasted__pasted__pasted__Pinky2_LFT1
+    100174: pasted__pasted__pasted__pasted__Pinky3_LFT
+    100176: pasted__pasted__pasted__pasted__Pinky3_LFT1
+    100178: pasted__pasted__pasted__pasted__Pinky4_LFT
+    100180: pasted__pasted__pasted__pasted__Pinky4_LFT1
+    100182: pasted__pasted__pasted__pasted__Ring1_LFT
+    100184: pasted__pasted__pasted__pasted__Ring1_LFT1
+    100186: pasted__pasted__pasted__pasted__Ring2_LFT
+    100188: pasted__pasted__pasted__pasted__Ring2_LFT1
+    100190: pasted__pasted__pasted__pasted__Ring3_LFT
+    100192: pasted__pasted__pasted__pasted__Ring3_LFT1
+    100194: pasted__pasted__pasted__pasted__Ring4_LFT
+    100196: pasted__pasted__pasted__pasted__Ring4_LFT1
+    100198: pasted__pasted__pasted__pasted__Thumb1_LFT
+    100200: pasted__pasted__pasted__pasted__Thumb1_LFT1
+    100202: pasted__pasted__pasted__pasted__Thumb2_LFT
+    100204: pasted__pasted__pasted__pasted__Thumb2_LFT1
+    100206: pasted__pasted__pasted__pasted__Thumb3_LFT
+    100208: pasted__pasted__pasted__pasted__Thumb3_LFT1
+    100210: pasted__pasted__pasted__pasted__Thumb4_LFT
+    100212: pasted__pasted__pasted__pasted__Thumb4_LFT1
+    100214: pasted__pasted__pasted__polySurface4
+    100216: pasted__pasted__pasted__polySurface6
+    100218: pasted__polySurface8
+    100220: pasted__polySurface9
+    100222: pasted__RightArmRoot
+    100224: pasted__group4
+    100226: pasted__polySurface3
+    100228: group1
+    100230: polySurface3
+    100232: polySurface4
+    100234: transform1
+    100236: joint1
+    100238: joint2
+    100240: joint3
+    400000: bow
+    400002: bow2
+    400004: bow_1
+    400006: //RootNode
+    400008: group
+    400010: pasted__group3
+    400012: pasted__group5
+    400014: pasted__group6
+    400016: pasted__group7
+    400018: pasted__pasted__pasted__Forearm_LFT
+    400020: pasted__pasted__pasted__Index1_LFT
+    400022: pasted__pasted__pasted__Index2_LFT
+    400024: pasted__pasted__pasted__Index3_LFT
+    400026: pasted__pasted__pasted__Index4_LFT
+    400028: pasted__pasted__pasted__Middle1_LFT
+    400030: pasted__pasted__pasted__Middle2_LFT
+    400032: pasted__pasted__pasted__Middle3_LFT
+    400034: pasted__pasted__pasted__Middle4_LFT
+    400036: pasted__pasted__pasted__Palm_LFT
+    400038: pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+    400040: pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+    400042: pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+    400044: pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+    400046: pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+    400048: pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+    400050: pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+    400052: pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+    400054: pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+    400056: pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+    400058: pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+    400060: pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+    400062: pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+    400064: pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+    400066: pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+    400068: pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+    400070: pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+    400072: pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+    400074: pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+    400076: pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+    400078: pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+    400080: pasted__pasted__pasted__pasted__pasted__polySurface4
+    400082: pasted__pasted__pasted__pasted__pasted__polySurface6
+    400084: pasted__pasted__pasted__Pinky1_LFT
+    400086: pasted__pasted__pasted__Pinky2_LFT
+    400088: pasted__pasted__pasted__Pinky3_LFT
+    400090: pasted__pasted__pasted__Pinky4_LFT
+    400092: pasted__pasted__pasted__polySurface9
+    400094: pasted__pasted__pasted__Ring1_LFT
+    400096: pasted__pasted__pasted__Ring2_LFT
+    400098: pasted__pasted__pasted__Ring3_LFT
+    400100: pasted__pasted__pasted__Ring4_LFT
+    400102: pasted__pasted__pasted__Thumb1_LFT
+    400104: pasted__pasted__pasted__Thumb2_LFT
+    400106: pasted__pasted__pasted__Thumb3_LFT
+    400108: pasted__pasted__pasted__Thumb4_LFT
+    400110: pasted__pasted__polySurface6
+    400112: pasted__pasted__RightArmRoot
+    400114: pasted__transform1
+    400116: polySurface1
+    400118: polySurface2
+    400120: pasted__All
+    400122: pasted__ArmMeshes
+    400124: pasted__GunAndRightArm
+    400126: pasted__LeftArmRoot
+    400128: pasted__pasted__group
+    400130: pasted__pasted__pasted__pasted__Index1_LFT
+    400132: pasted__pasted__pasted__pasted__Index1_LFT1
+    400134: pasted__pasted__pasted__pasted__Index2_LFT
+    400136: pasted__pasted__pasted__pasted__Index2_LFT1
+    400138: pasted__pasted__pasted__pasted__Index3_LFT
+    400140: pasted__pasted__pasted__pasted__Index3_LFT1
+    400142: pasted__pasted__pasted__pasted__Index4_LFT
+    400144: pasted__pasted__pasted__pasted__Index4_LFT1
+    400146: pasted__pasted__pasted__pasted__Middle1_LFT
+    400148: pasted__pasted__pasted__pasted__Middle1_LFT1
+    400150: pasted__pasted__pasted__pasted__Middle2_LFT
+    400152: pasted__pasted__pasted__pasted__Middle2_LFT1
+    400154: pasted__pasted__pasted__pasted__Middle3_LFT
+    400156: pasted__pasted__pasted__pasted__Middle3_LFT1
+    400158: pasted__pasted__pasted__pasted__Middle4_LFT
+    400160: pasted__pasted__pasted__pasted__Middle4_LFT1
+    400162: pasted__pasted__pasted__pasted__Palm_LFT
+    400164: pasted__pasted__pasted__pasted__Palm_LFT1
+    400166: pasted__pasted__pasted__pasted__Pinky1_LFT
+    400168: pasted__pasted__pasted__pasted__Pinky1_LFT1
+    400170: pasted__pasted__pasted__pasted__Pinky2_LFT
+    400172: pasted__pasted__pasted__pasted__Pinky2_LFT1
+    400174: pasted__pasted__pasted__pasted__Pinky3_LFT
+    400176: pasted__pasted__pasted__pasted__Pinky3_LFT1
+    400178: pasted__pasted__pasted__pasted__Pinky4_LFT
+    400180: pasted__pasted__pasted__pasted__Pinky4_LFT1
+    400182: pasted__pasted__pasted__pasted__Ring1_LFT
+    400184: pasted__pasted__pasted__pasted__Ring1_LFT1
+    400186: pasted__pasted__pasted__pasted__Ring2_LFT
+    400188: pasted__pasted__pasted__pasted__Ring2_LFT1
+    400190: pasted__pasted__pasted__pasted__Ring3_LFT
+    400192: pasted__pasted__pasted__pasted__Ring3_LFT1
+    400194: pasted__pasted__pasted__pasted__Ring4_LFT
+    400196: pasted__pasted__pasted__pasted__Ring4_LFT1
+    400198: pasted__pasted__pasted__pasted__Thumb1_LFT
+    400200: pasted__pasted__pasted__pasted__Thumb1_LFT1
+    400202: pasted__pasted__pasted__pasted__Thumb2_LFT
+    400204: pasted__pasted__pasted__pasted__Thumb2_LFT1
+    400206: pasted__pasted__pasted__pasted__Thumb3_LFT
+    400208: pasted__pasted__pasted__pasted__Thumb3_LFT1
+    400210: pasted__pasted__pasted__pasted__Thumb4_LFT
+    400212: pasted__pasted__pasted__pasted__Thumb4_LFT1
+    400214: pasted__pasted__pasted__polySurface4
+    400216: pasted__pasted__pasted__polySurface6
+    400218: pasted__polySurface8
+    400220: pasted__polySurface9
+    400222: pasted__RightArmRoot
+    400224: pasted__group4
+    400226: pasted__polySurface3
+    400228: group1
+    400230: polySurface3
+    400232: polySurface4
+    400234: transform1
+    400236: joint1
+    400238: joint2
+    400240: joint3
+    2300000: bow
+    2300002: bow2
+    2300004: bow_1
+    2300006: polySurface1
+    2300008: polySurface2
+    2300010: pasted__pasted__polySurface6
+    2300012: pasted__polySurface3
+    2300014: polySurface3
+    2300016: polySurface4
+    3300000: bow
+    3300002: bow2
+    3300004: bow_1
+    3300006: polySurface1
+    3300008: polySurface2
+    3300010: pasted__pasted__polySurface6
+    3300012: pasted__polySurface3
+    3300014: polySurface3
+    3300016: polySurface4
+    4300000: bow
+    4300002: bow_1
+    4300004: polySurface1
+    4300006: bow2
+    4300008: polySurface2
+    4300010: pasted__pasted__polySurface6
+    4300012: pasted__pasted__pasted__polySurface9
+    4300014: pasted__polySurface8
+    4300016: pasted__polySurface9
+    4300018: pasted__polySurface3
+    4300020: polySurface3
+    4300022: polySurface4
+    7400000: Ready
+    7400002: Reload
+    7400004: Fire
+    7400006: Pull
+    7400008: Melee
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pasted__pasted__pasted__polySurface9
+    13700002: pasted__pasted__polySurface6
+    13700004: pasted__polySurface8
+    13700006: pasted__polySurface9
+    13700008: polySurface4
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 4
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ready
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 32
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bow_1
+        weight: 1
+      - path: bow_1/polySurface1
+        weight: 1
+      - path: pasted__group6
+        weight: 1
+      - path: pasted__group6/pasted__group7
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT/pasted__pasted__pasted__Index4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT/pasted__pasted__pasted__Middle4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT/pasted__pasted__pasted__Pinky4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT/pasted__pasted__pasted__Ring4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT/pasted__pasted__pasted__Thumb4_LFT
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6/pasted__pasted__pasted__polySurface9
+        weight: 1
+      - path: pasted__pasted__polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bow_1
+        weight: 1
+      - path: bow_1/polySurface1
+        weight: 1
+      - path: pasted__group6
+        weight: 1
+      - path: pasted__group6/pasted__group7
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT/pasted__pasted__pasted__Index4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT/pasted__pasted__pasted__Middle4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT/pasted__pasted__pasted__Pinky4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT/pasted__pasted__pasted__Ring4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT/pasted__pasted__pasted__Thumb4_LFT
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6/pasted__pasted__pasted__polySurface9
+        weight: 1
+      - path: pasted__pasted__polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 46
+      lastFrame: 55
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bow_1
+        weight: 1
+      - path: bow_1/polySurface1
+        weight: 1
+      - path: pasted__group6
+        weight: 1
+      - path: pasted__group6/pasted__group7
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT/pasted__pasted__pasted__Index4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT/pasted__pasted__pasted__Middle4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT/pasted__pasted__pasted__Pinky4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT/pasted__pasted__pasted__Ring4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT/pasted__pasted__pasted__Thumb4_LFT
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6/pasted__pasted__pasted__polySurface9
+        weight: 1
+      - path: pasted__pasted__polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pull
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 45
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bow_1
+        weight: 1
+      - path: bow_1/polySurface1
+        weight: 1
+      - path: pasted__group6
+        weight: 1
+      - path: pasted__group6/pasted__group7
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__group7/pasted__group3/pasted__group5/pasted__transform1/pasted__pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__Index3_LFT/pasted__pasted__pasted__Index4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__Middle3_LFT/pasted__pasted__pasted__Middle4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__Pinky3_LFT/pasted__pasted__pasted__Pinky4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__Ring3_LFT/pasted__pasted__pasted__Ring4_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT
+        weight: 1
+      - path: pasted__group6/pasted__pasted__pasted__Forearm_LFT/pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__Thumb3_LFT/pasted__pasted__pasted__Thumb4_LFT
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__pasted__pasted__polySurface6/pasted__pasted__pasted__polySurface9
+        weight: 1
+      - path: pasted__pasted__polySurface6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Melee
+      takeName: Take 001
+      firstFrame: 57
+      lastFrame: 96
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__polySurface3
+        weight: 1
+      - path: group1/pasted__polySurface3/bow_1
+        weight: 1
+      - path: group1/pasted__polySurface3/bow_1/polySurface3
+        weight: 1
+      - path: group1/pasted__polySurface3/bow_1/polySurface4
+        weight: 1
+      - path: group1/pasted__polySurface3/transform1
+        weight: 1
+      - path: group1/pasted__polySurface3/transform1/joint2
+        weight: 1
+      - path: group1/pasted__polySurface3/transform1/joint2/joint1
+        weight: 1
+      - path: group1/pasted__polySurface3/transform1/joint2/joint3
+        weight: 1
+      - path: group1/pasted__RightArmRoot
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: group1/pasted__RightArmRoot/polySurface1
+        weight: 1
+      - path: pasted__pasted__pasted__polySurface4
+        weight: 1
+      - path: pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__polySurface6
+        weight: 1
+      - path: pasted__pasted__pasted__polySurface4/pasted__pasted__pasted__polySurface6/pasted__polySurface9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

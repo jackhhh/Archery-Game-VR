@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &195654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 426624}
+  - 33: {fileID: 3324218}
+  - 23: {fileID: 2389112}
+  - 54: {fileID: 5402532}
+  - 114: {fileID: 11416838}
+  - 114: {fileID: 11448020}
+  - 65: {fileID: 6561148}
+  m_Layer: 0
+  m_Name: Arrow
+  m_TagString: NoHitMark
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &426624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_LocalRotation: {x: .707106829, y: 0, z: 0, w: .707106829}
+  m_LocalPosition: {x: -1.90199995, y: 19.1009998, z: 4.84499979}
+  m_LocalScale: {x: 5.5, y: 5.5, z: 5.5}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!23 &2389112
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: c044eb7f4835374469d8fb776660bd2c, type: 2}
+  - {fileID: 2100000, guid: ffedbd8788502774bb78354451bbfd92, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 1
+  m_ReflectionProbeUsage: 1
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &3324218
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_Mesh: {fileID: 4300000, guid: 60a9f1b9b5da18043b7e512ac77133ad, type: 3}
+--- !u!54 &5402532
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  serializedVersion: 2
+  m_Mass: .25
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 1
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &6561148
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_Material: {fileID: 13400000, guid: b2d3559dbef5c974b857eb403df8cb30, type: 2}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .0120000001, y: .0120000001, z: .180794641}
+  m_Center: {x: 0, y: 1.36672257e-10, z: .0011464901}
+--- !u!114 &11416838
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc329ddea2a0e8e4da0c5db723b1edfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myRigidbody: {fileID: 0}
+  hit: 0
+  falling: 0
+  damage: 15
+  damageAdd: 85
+  force: 3
+  damageAddAmt: 0
+  waitDuration: 120
+  objectPoolIndex: 17
+  myBoxCol: {fileID: 0}
+  scale: {x: 5.5, y: 5.5, z: 5.5}
+  initialColSize: {x: .00600000005, y: .00600000005, z: .180700004}
+  drawHelperGizmos: 0
+  hitCheckDist: 1
+  hitCheckStart: .400000006
+  rayMask:
+    serializedVersion: 2
+    m_Bits: 9217
+  velFactor: 0
+  visibleDelay: 0
+--- !u!114 &11448020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 195654}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd41d6f2f4160242b93c069fb43eca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponNumber: 8
+  objectPoolIndex: 17
+  removeOnUse: 1
+  pickupSound: {fileID: 8300000, guid: d05054c7c8ff4da49b034ba5e7b96d20, type: 3}
+  fullSound: {fileID: 8300000, guid: 1a79e50705142f740a7ad733adf22a21, type: 3}
+  ammoToAdd: 1
+  ammoPickupReticle: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_Mass
+      value: .25
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_AngularDrag
+      value: .200000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: damageAdd
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: damage
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: initialColSize.x
+      value: .00600000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: initialColSize.y
+      value: .00600000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: initialColSize.z
+      value: .180700004
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d05054c7c8ff4da49b034ba5e7b96d20, type: 3}
+    - target: {fileID: 0}
+      propertyPath: hitCheckDist
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_TagString
+      value: NoHitMark
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: drawHelperGizmos
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 195654}
+  m_IsPrefabParent: 1

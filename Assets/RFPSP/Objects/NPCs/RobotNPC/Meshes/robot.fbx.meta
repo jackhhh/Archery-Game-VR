@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 82fbe454bd119c44d0009d298d76c639
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: elbow_L
+    100002: elbow_R
+    100004: finger1_L
+    100006: finger1_R
+    100008: finger2_L
+    100010: finger2_R
+    100012: finger3e_L
+    100014: finger3e_R
+    100016: gun
+    100018: gun_model
+    100020: hand_L
+    100022: hand_R
+    100024: head
+    100026: heade
+    100028: heel_L
+    100030: heel_R
+    100032: joint1
+    100034: joint1 1
+    100036: joint2
+    100038: joint2 1
+    100040: lowarm_L
+    100042: lowarm_R
+    100044: lowleg_L
+    100046: lowleg_R
+    100048: neck
+    100050: //RootNode
+    100052: robotskin1
+    100054: roothandle
+    100056: shoulder_L
+    100058: shoulder_R
+    100060: spine1
+    100062: spine2
+    100064: spine3
+    100066: spine4
+    100068: thumb1_L
+    100070: thumb1_R
+    100072: thumb2_L
+    100074: thumb2_R
+    100076: thumb3e_L
+    100078: thumb3e_R
+    100080: uparm_L
+    100082: uparm_R
+    100084: upleg_L
+    100086: upleg_R
+    400000: elbow_L
+    400002: elbow_R
+    400004: finger1_L
+    400006: finger1_R
+    400008: finger2_L
+    400010: finger2_R
+    400012: finger3e_L
+    400014: finger3e_R
+    400016: gun
+    400018: gun_model
+    400020: hand_L
+    400022: hand_R
+    400024: head
+    400026: heade
+    400028: heel_L
+    400030: heel_R
+    400032: joint1
+    400034: joint1 1
+    400036: joint2
+    400038: joint2 1
+    400040: lowarm_L
+    400042: lowarm_R
+    400044: lowleg_L
+    400046: lowleg_R
+    400048: neck
+    400050: //RootNode
+    400052: robotskin1
+    400054: roothandle
+    400056: shoulder_L
+    400058: shoulder_R
+    400060: spine1
+    400062: spine2
+    400064: spine3
+    400066: spine4
+    400068: thumb1_L
+    400070: thumb1_R
+    400072: thumb2_L
+    400074: thumb2_R
+    400076: thumb3e_L
+    400078: thumb3e_R
+    400080: uparm_L
+    400082: uparm_R
+    400084: upleg_L
+    400086: upleg_R
+    2300000: gun_model
+    3300000: gun_model
+    4300000: robotskin1
+    4300002: gun_model
+    7400002: Take 001
+    11100000: //RootNode
+    13700000: robotskin1
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: robotskin1
+        weight: 1
+      - path: roothandle
+        weight: 1
+      - path: roothandle/spine1
+        weight: 1
+      - path: roothandle/spine1/spine2
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/finger1_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/finger1_L/finger2_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/finger1_L/finger2_L/finger3e_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/thumb1_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_L/uparm_L/elbow_L/lowarm_L/hand_L/thumb1_L/thumb2_L/thumb3e_L
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/finger1_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/finger1_R/finger2_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/finger1_R/finger2_R/finger3e_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/gun
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/gun/gun_model
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/thumb1_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/shoulder_R/uparm_R/elbow_R/lowarm_R/hand_R/thumb1_R/thumb2_R/thumb3e_R
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/spine4/neck
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/spine4/neck/head
+        weight: 1
+      - path: roothandle/spine1/spine2/spine3/spine4/neck/head/heade
+        weight: 1
+      - path: roothandle/upleg_L
+        weight: 1
+      - path: roothandle/upleg_L/lowleg_L
+        weight: 1
+      - path: roothandle/upleg_L/lowleg_L/heel_L
+        weight: 1
+      - path: roothandle/upleg_L/lowleg_L/heel_L/joint1
+        weight: 1
+      - path: roothandle/upleg_L/lowleg_L/heel_L/joint1/joint2
+        weight: 1
+      - path: roothandle/upleg_R
+        weight: 1
+      - path: roothandle/upleg_R/lowleg_R
+        weight: 1
+      - path: roothandle/upleg_R/lowleg_R/heel_R
+        weight: 1
+      - path: roothandle/upleg_R/lowleg_R/heel_R/joint1 1
+        weight: 1
+      - path: roothandle/upleg_R/lowleg_R/heel_R/joint1 1/joint2 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

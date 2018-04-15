@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &119348
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 419348}
+  - 114: {fileID: 11419348}
+  m_Layer: 0
+  m_Name: Wave Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &419348
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 119348}
+  m_LocalRotation: {x: 0, y: -.743026376, z: 0, w: .669262171}
+  m_LocalPosition: {x: 2.6676302, y: -.0650080591, z: -2.31727552}
+  m_LocalScale: {x: .0861631334, y: .106164828, z: .29825446}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11419348
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 119348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d3bf9a18fc1ee040997b66372cf4b75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NpcSpawners:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  waves:
+  - NpcCounts: 030000000300000003000000
+    NpcLoads: 030000000300000003000000
+    NpcDelay:
+    - 3
+    - 3
+    - 3
+    NpcTypes:
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+  - NpcCounts: 040000000400000004000000
+    NpcLoads: 040000000400000004000000
+    NpcDelay:
+    - 3
+    - 3
+    - 3
+    NpcTypes:
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+  - NpcCounts: 060000000400000006000000
+    NpcLoads: 030000000200000003000000
+    NpcDelay:
+    - 3
+    - 6
+    - 3
+    NpcTypes:
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100042, guid: 326bc0d25e01ca1478c514823a226a52, type: 2}
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+  - NpcCounts: 080000000600000006000000
+    NpcLoads: 040000000300000002000000
+    NpcDelay:
+    - 3
+    - 5
+    - 5
+    NpcTypes:
+    - {fileID: 100000, guid: 9b415e32d23b8cb47a7514d4549c86bc, type: 2}
+    - {fileID: 100042, guid: 326bc0d25e01ca1478c514823a226a52, type: 2}
+    - {fileID: 100176, guid: 9edcb56c41c0f854792009af8735030b, type: 2}
+  warmupTime: 15
+  NpcsToSpawn: 0
+  killedNpcs: 0
+  waveNumber: 0
+  waveStartFx: {fileID: 8300000, guid: 638d7ef437e998640af230de5e0a0c90, type: 3}
+  waveEndFx: {fileID: 8300000, guid: 1b5c4b78664d96c4591968c0ba678f91, type: 3}
+  waveGuiObj: {fileID: 100000, guid: cf77c64d02b310a44a3daad5349c885c, type: 2}
+  waveGuiObjInstance: {fileID: 0}
+  warmupGuiObj: {fileID: 100000, guid: 90772320fda58914cb46cc73379e8c4e, type: 2}
+  warmupGuiObjInstance: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 119348}
+  m_IsPrefabParent: 1

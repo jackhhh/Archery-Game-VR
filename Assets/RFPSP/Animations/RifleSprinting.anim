@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RifleSprinting
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0401186943
+        inSlope: 24.4705601
+        outSlope: 24.4705601
+        tangentMode: 0
+      - time: .0500000007
+        value: .595511198
+        inSlope: 47.1294098
+        outSlope: 47.1294098
+        tangentMode: 0
+      - time: .283333331
+        value: 10.194623
+        inSlope: 41.950531
+        outSlope: 41.950531
+        tangentMode: 0
+      - time: .333333343
+        value: 11.0405598
+        inSlope: 16.9187374
+        outSlope: 16.9187374
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.x
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: .245227218
+        outSlope: .245227218
+        tangentMode: 0
+      - time: .0500000007
+        value: -1.89860749
+        inSlope: -130.08548
+        outSlope: -130.08548
+        tangentMode: 0
+      - time: .283333331
+        value: -47.6136971
+        inSlope: -181.111801
+        outSlope: -181.111801
+        tangentMode: 0
+      - time: .333333343
+        value: -51.2264404
+        inSlope: -1.70694602
+        outSlope: -1.70694602
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.y
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0363060385
+        inSlope: -2.57457972
+        outSlope: -2.57457972
+        tangentMode: 0
+      - time: .0333333351
+        value: -1.52805448
+        inSlope: -171.333221
+        outSlope: -171.333221
+        tangentMode: 0
+      - time: .166666672
+        value: -24.5680847
+        inSlope: -.272949219
+        outSlope: -.272949219
+        tangentMode: 0
+      - time: .300000012
+        value: -1.97389066
+        inSlope: 171.787262
+        outSlope: 171.787262
+        tangentMode: 0
+      - time: .333333343
+        value: 2.98023224e-08
+        inSlope: 4.11240005
+        outSlope: 4.11240005
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.z
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 8
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0401186943
+        inSlope: 24.4705601
+        outSlope: 24.4705601
+        tangentMode: 0
+      - time: .0500000007
+        value: .595511198
+        inSlope: 47.1294098
+        outSlope: 47.1294098
+        tangentMode: 0
+      - time: .283333331
+        value: 10.194623
+        inSlope: 41.950531
+        outSlope: 41.950531
+        tangentMode: 0
+      - time: .333333343
+        value: 11.0405598
+        inSlope: 16.9187374
+        outSlope: 16.9187374
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.x
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: .245227218
+        outSlope: .245227218
+        tangentMode: 0
+      - time: .0500000007
+        value: -1.89860749
+        inSlope: -130.08548
+        outSlope: -130.08548
+        tangentMode: 0
+      - time: .283333331
+        value: -47.6136971
+        inSlope: -181.111801
+        outSlope: -181.111801
+        tangentMode: 0
+      - time: .333333343
+        value: -51.2264404
+        inSlope: -1.70694602
+        outSlope: -1.70694602
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.y
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0363060385
+        inSlope: -2.57457972
+        outSlope: -2.57457972
+        tangentMode: 0
+      - time: .0333333351
+        value: -1.52805448
+        inSlope: -171.333221
+        outSlope: -171.333221
+        tangentMode: 0
+      - time: .166666672
+        value: -24.5680847
+        inSlope: -.272949219
+        outSlope: -.272949219
+        tangentMode: 0
+      - time: .300000012
+        value: -1.97389066
+        inSlope: 171.787262
+        outSlope: 171.787262
+        tangentMode: 0
+      - time: .333333343
+        value: 2.98023224e-08
+        inSlope: 4.11240005
+        outSlope: 4.11240005
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: gunAnglesTarget.z
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: def2fb265c6be544a9d5b85b16d3f8d2, type: 3}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
+--- !u!1002 &7400001
+EditorExtensionImpl:
+  serializedVersion: 6

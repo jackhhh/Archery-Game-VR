@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CameraReloadPistol
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: -.00119358068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0333333
+        value: -.0874514878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.25
+        value: -.0324467421
+        inSlope: .210608318
+        outSlope: .210608318
+        tangentMode: 0
+      - time: 1.4666667
+        value: .000396633288
+        inSlope: .00473106187
+        outSlope: .00473106187
+        tangentMode: 0
+      - time: 1.60000002
+        value: .159510583
+        inSlope: -.000681611709
+        outSlope: -.000681611709
+        tangentMode: 0
+      - time: 1.76666677
+        value: .0011835614
+        inSlope: -.00387619366
+        outSlope: -.00387619366
+        tangentMode: 0
+      - time: 2.0666666
+        value: 9.2449598e-05
+        inSlope: -.00273718336
+        outSlope: -.00273718336
+        tangentMode: 0
+      - time: 2.4000001
+        value: 0
+        inSlope: .0021969052
+        outSlope: .0021969052
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: CameraYawAmt
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 1b1e9b88fdb6b0b48aecbfdfeee3e4bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0833333358
+        value: -.00127718505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .216666669
+        value: .214484572
+        inSlope: .0019091561
+        outSlope: .0019091561
+        tangentMode: 0
+      - time: .366666675
+        value: -.00156093575
+        inSlope: .000389286201
+        outSlope: .000389286201
+        tangentMode: 0
+      - time: .75
+        value: -2.32830644e-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: .246525362
+        inSlope: .00469543785
+        outSlope: .00469543785
+        tangentMode: 0
+      - time: 1.25
+        value: .0185217187
+        inSlope: -.224030256
+        outSlope: -.224030256
+        tangentMode: 0
+      - time: 1.4666667
+        value: .000583711779
+        inSlope: -.00454444578
+        outSlope: -.00454444578
+        tangentMode: 0
+      - time: 1.60000002
+        value: -.310447454
+        inSlope: -3.42051436e-07
+        outSlope: -3.42051436e-07
+        tangentMode: 0
+      - time: 1.76666677
+        value: .000680203142
+        inSlope: .00488261972
+        outSlope: .00488261972
+        tangentMode: 0
+      - time: 2.0666666
+        value: -2.19419599e-06
+        inSlope: .00862856489
+        outSlope: .00862856489
+        tangentMode: 0
+      - time: 2.20000005
+        value: .204357833
+        inSlope: .00548407203
+        outSlope: .00548407203
+        tangentMode: 0
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: CameraPitchAmt
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 1b1e9b88fdb6b0b48aecbfdfeee3e4bb, type: 3}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2.4000001
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .733333349
+        value: -.00119358068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.0333333
+        value: -.0874514878
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.25
+        value: -.0324467421
+        inSlope: .210608318
+        outSlope: .210608318
+        tangentMode: 0
+      - time: 1.4666667
+        value: .000396633288
+        inSlope: .00473106187
+        outSlope: .00473106187
+        tangentMode: 0
+      - time: 1.60000002
+        value: .159510583
+        inSlope: -.000681611709
+        outSlope: -.000681611709
+        tangentMode: 0
+      - time: 1.76666677
+        value: .0011835614
+        inSlope: -.00387619366
+        outSlope: -.00387619366
+        tangentMode: 0
+      - time: 2.0666666
+        value: 9.2449598e-05
+        inSlope: -.00273718336
+        outSlope: -.00273718336
+        tangentMode: 0
+      - time: 2.4000001
+        value: 0
+        inSlope: .0021969052
+        outSlope: .0021969052
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: CameraYawAmt
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 1b1e9b88fdb6b0b48aecbfdfeee3e4bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0833333358
+        value: -.00127718505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .216666669
+        value: .214484572
+        inSlope: .0019091561
+        outSlope: .0019091561
+        tangentMode: 0
+      - time: .366666675
+        value: -.00156093575
+        inSlope: .000389286201
+        outSlope: .000389286201
+        tangentMode: 0
+      - time: .75
+        value: -2.32830644e-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: .246525362
+        inSlope: .00469543785
+        outSlope: .00469543785
+        tangentMode: 0
+      - time: 1.25
+        value: .0185217187
+        inSlope: -.224030256
+        outSlope: -.224030256
+        tangentMode: 0
+      - time: 1.4666667
+        value: .000583711779
+        inSlope: -.00454444578
+        outSlope: -.00454444578
+        tangentMode: 0
+      - time: 1.60000002
+        value: -.310447454
+        inSlope: -3.42051436e-07
+        outSlope: -3.42051436e-07
+        tangentMode: 0
+      - time: 1.76666677
+        value: .000680203142
+        inSlope: .00488261972
+        outSlope: .00488261972
+        tangentMode: 0
+      - time: 2.0666666
+        value: -2.19419599e-06
+        inSlope: .00862856489
+        outSlope: .00862856489
+        tangentMode: 0
+      - time: 2.20000005
+        value: .204357833
+        inSlope: .00548407203
+        outSlope: .00548407203
+        tangentMode: 0
+      - time: 2.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: CameraPitchAmt
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 1b1e9b88fdb6b0b48aecbfdfeee3e4bb, type: 3}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

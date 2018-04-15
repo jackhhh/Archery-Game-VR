@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 74bd1a533ce9a1140a81c6c05636feb2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: arrowControl
+    100004: arrowSkeleton
+    100006: bottomControl
+    100008: bottomStringSkeleton
+    100010: Bow
+    100012: bowSkeleton
+    100014: distanceDimension1
+    100016: distanceDimension2
+    100018: //RootNode
+    100020: endHandleBottom
+    100022: endHandleTop
+    100024: ikHandle1
+    100026: ikHandle2
+    100028: ikHandle3
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint29
+    100038: joint3
+    100040: joint30
+    100042: joint31
+    100044: joint32
+    100046: joint33
+    100048: joint34
+    100050: joint36
+    100052: joint37
+    100054: joint39
+    100056: joint4
+    100058: joint5
+    100060: locator1
+    100062: locator2
+    100064: locator3
+    100066: locator4
+    100068: Measures
+    100070: Skeletons
+    100072: String
+    100074: stringControl
+    100076: topControl
+    100078: topStringSkeleton
+    400000: Arrow
+    400002: arrowControl
+    400004: arrowSkeleton
+    400006: bottomControl
+    400008: bottomStringSkeleton
+    400010: Bow
+    400012: bowSkeleton
+    400014: distanceDimension1
+    400016: distanceDimension2
+    400018: //RootNode
+    400020: endHandleBottom
+    400022: endHandleTop
+    400024: ikHandle1
+    400026: ikHandle2
+    400028: ikHandle3
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint29
+    400038: joint3
+    400040: joint30
+    400042: joint31
+    400044: joint32
+    400046: joint33
+    400048: joint34
+    400050: joint36
+    400052: joint37
+    400054: joint39
+    400056: joint4
+    400058: joint5
+    400060: locator1
+    400062: locator2
+    400064: locator3
+    400066: locator4
+    400068: Measures
+    400070: Skeletons
+    400072: String
+    400074: stringControl
+    400076: topControl
+    400078: topStringSkeleton
+    4300000: Arrow
+    4300002: Bow
+    4300004: String
+    7400000: empty
+    7400002: loaded
+    7400004: pull
+    7400006: pulled
+    7400008: release
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Arrow
+    13700002: Bow
+    13700004: String
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: empty
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1.10000002
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arrow
+        weight: 1
+      - path: arrowControl
+        weight: 1
+      - path: arrowControl/ikHandle3
+        weight: 1
+      - path: bottomControl
+        weight: 1
+      - path: bottomControl/endHandleBottom
+        weight: 1
+      - path: bottomControl/ikHandle2
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Measures
+        weight: 1
+      - path: Measures/distanceDimension1
+        weight: 1
+      - path: Measures/distanceDimension2
+        weight: 1
+      - path: Measures/locator1
+        weight: 1
+      - path: Measures/locator2
+        weight: 1
+      - path: Measures/locator3
+        weight: 1
+      - path: Measures/locator4
+        weight: 1
+      - path: Skeletons
+        weight: 1
+      - path: Skeletons/arrowSkeleton
+        weight: 1
+      - path: Skeletons/arrowSkeleton/joint39
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton/joint37
+        weight: 1
+      - path: Skeletons/bowSkeleton
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20/joint21
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: Skeletons/topStringSkeleton
+        weight: 1
+      - path: Skeletons/topStringSkeleton/joint36
+        weight: 1
+      - path: String
+        weight: 1
+      - path: stringControl
+        weight: 1
+      - path: topControl
+        weight: 1
+      - path: topControl/endHandleTop
+        weight: 1
+      - path: topControl/ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: loaded
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 4.0999999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arrow
+        weight: 1
+      - path: arrowControl
+        weight: 1
+      - path: arrowControl/ikHandle3
+        weight: 1
+      - path: bottomControl
+        weight: 1
+      - path: bottomControl/endHandleBottom
+        weight: 1
+      - path: bottomControl/ikHandle2
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Measures
+        weight: 1
+      - path: Measures/distanceDimension1
+        weight: 1
+      - path: Measures/distanceDimension2
+        weight: 1
+      - path: Measures/locator1
+        weight: 1
+      - path: Measures/locator2
+        weight: 1
+      - path: Measures/locator3
+        weight: 1
+      - path: Measures/locator4
+        weight: 1
+      - path: Skeletons
+        weight: 1
+      - path: Skeletons/arrowSkeleton
+        weight: 1
+      - path: Skeletons/arrowSkeleton/joint39
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton/joint37
+        weight: 1
+      - path: Skeletons/bowSkeleton
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20/joint21
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: Skeletons/topStringSkeleton
+        weight: 1
+      - path: Skeletons/topStringSkeleton/joint36
+        weight: 1
+      - path: String
+        weight: 1
+      - path: stringControl
+        weight: 1
+      - path: topControl
+        weight: 1
+      - path: topControl/endHandleTop
+        weight: 1
+      - path: topControl/ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: pull
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arrow
+        weight: 1
+      - path: arrowControl
+        weight: 1
+      - path: arrowControl/ikHandle3
+        weight: 1
+      - path: bottomControl
+        weight: 1
+      - path: bottomControl/endHandleBottom
+        weight: 1
+      - path: bottomControl/ikHandle2
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Measures
+        weight: 1
+      - path: Measures/distanceDimension1
+        weight: 1
+      - path: Measures/distanceDimension2
+        weight: 1
+      - path: Measures/locator1
+        weight: 1
+      - path: Measures/locator2
+        weight: 1
+      - path: Measures/locator3
+        weight: 1
+      - path: Measures/locator4
+        weight: 1
+      - path: Skeletons
+        weight: 1
+      - path: Skeletons/arrowSkeleton
+        weight: 1
+      - path: Skeletons/arrowSkeleton/joint39
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton/joint37
+        weight: 1
+      - path: Skeletons/bowSkeleton
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20/joint21
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: Skeletons/topStringSkeleton
+        weight: 1
+      - path: Skeletons/topStringSkeleton/joint36
+        weight: 1
+      - path: String
+        weight: 1
+      - path: stringControl
+        weight: 1
+      - path: topControl
+        weight: 1
+      - path: topControl/endHandleTop
+        weight: 1
+      - path: topControl/ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: pulled
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 32.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arrow
+        weight: 1
+      - path: arrowControl
+        weight: 1
+      - path: arrowControl/ikHandle3
+        weight: 1
+      - path: bottomControl
+        weight: 1
+      - path: bottomControl/endHandleBottom
+        weight: 1
+      - path: bottomControl/ikHandle2
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Measures
+        weight: 1
+      - path: Measures/distanceDimension1
+        weight: 1
+      - path: Measures/distanceDimension2
+        weight: 1
+      - path: Measures/locator1
+        weight: 1
+      - path: Measures/locator2
+        weight: 1
+      - path: Measures/locator3
+        weight: 1
+      - path: Measures/locator4
+        weight: 1
+      - path: Skeletons
+        weight: 1
+      - path: Skeletons/arrowSkeleton
+        weight: 1
+      - path: Skeletons/arrowSkeleton/joint39
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton/joint37
+        weight: 1
+      - path: Skeletons/bowSkeleton
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20/joint21
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: Skeletons/topStringSkeleton
+        weight: 1
+      - path: Skeletons/topStringSkeleton/joint36
+        weight: 1
+      - path: String
+        weight: 1
+      - path: stringControl
+        weight: 1
+      - path: topControl
+        weight: 1
+      - path: topControl/endHandleTop
+        weight: 1
+      - path: topControl/ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: release
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arrow
+        weight: 1
+      - path: arrowControl
+        weight: 1
+      - path: arrowControl/ikHandle3
+        weight: 1
+      - path: bottomControl
+        weight: 1
+      - path: bottomControl/endHandleBottom
+        weight: 1
+      - path: bottomControl/ikHandle2
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Measures
+        weight: 1
+      - path: Measures/distanceDimension1
+        weight: 1
+      - path: Measures/distanceDimension2
+        weight: 1
+      - path: Measures/locator1
+        weight: 1
+      - path: Measures/locator2
+        weight: 1
+      - path: Measures/locator3
+        weight: 1
+      - path: Measures/locator4
+        weight: 1
+      - path: Skeletons
+        weight: 1
+      - path: Skeletons/arrowSkeleton
+        weight: 1
+      - path: Skeletons/arrowSkeleton/joint39
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton
+        weight: 1
+      - path: Skeletons/bottomStringSkeleton/joint37
+        weight: 1
+      - path: Skeletons/bowSkeleton
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint2/joint3/joint4/joint5/joint20/joint21
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: Skeletons/bowSkeleton/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: Skeletons/topStringSkeleton
+        weight: 1
+      - path: Skeletons/topStringSkeleton/joint36
+        weight: 1
+      - path: String
+        weight: 1
+      - path: stringControl
+        weight: 1
+      - path: topControl
+        weight: 1
+      - path: topControl/endHandleTop
+        weight: 1
+      - path: topControl/ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

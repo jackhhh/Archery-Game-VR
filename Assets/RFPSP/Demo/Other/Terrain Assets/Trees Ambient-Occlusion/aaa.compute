@@ -1,0 +1,22 @@
+﻿precision mediump float; 
+
+uniform mat4 u_modelViewProjectionMat;      
+uniform mat4 u_modelMat;               
+uniform mat4 u_viewTransposeMat;   
+
+uniform vec3 u_axis; // <------------ !!! the arbitrary axis to restrict rotation around
+
+attribute vec3 a_position0;     
+attribute vec2 a_texCoord0;     
+
+varying vec2 v_texCoord0;      
+
+void main()
+{
+    vec3 pos = (a_position0.x * u_viewTransposeMat[0] + a_position0.y * u_viewTransposeMat[1]).xyz;
+    vec4 position = vec4(pos, 1.0);
+
+    v_texCoord0 = a_texCoord0;
+
+    gl_Position = u_modelViewProjectionMat *  position;
+}

@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: a300b85753bff834fa8c8f134916fd55
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: all
+    100002: Gun
+    100004: LeftArmMesh
+    100006: LeftArmRoot
+    100008: pasted__pasted__pasted__pasted__Index1_LFT
+    100010: pasted__pasted__pasted__pasted__Index2_LFT
+    100012: pasted__pasted__pasted__pasted__Index3_LFT
+    100014: pasted__pasted__pasted__pasted__Index4_LFT
+    100016: pasted__pasted__pasted__pasted__Middle1_LFT
+    100018: pasted__pasted__pasted__pasted__Middle2_LFT
+    100020: pasted__pasted__pasted__pasted__Middle3_LFT
+    100022: pasted__pasted__pasted__pasted__Middle4_LFT
+    100024: pasted__pasted__pasted__pasted__Palm_LFT
+    100026: pasted__pasted__pasted__pasted__Pinky1_LFT
+    100028: pasted__pasted__pasted__pasted__Pinky2_LFT
+    100030: pasted__pasted__pasted__pasted__Pinky3_LFT
+    100032: pasted__pasted__pasted__pasted__Pinky4_LFT
+    100034: pasted__pasted__pasted__pasted__Ring1_LFT
+    100036: pasted__pasted__pasted__pasted__Ring2_LFT
+    100038: pasted__pasted__pasted__pasted__Ring3_LFT
+    100040: pasted__pasted__pasted__pasted__Ring4_LFT
+    100042: pasted__pasted__pasted__pasted__Thumb1_LFT
+    100044: pasted__pasted__pasted__pasted__Thumb2_LFT
+    100046: pasted__pasted__pasted__pasted__Thumb3_LFT
+    100048: pasted__pasted__pasted__pasted__Thumb4_LFT
+    100050: polySurface1
+    100052: polySurface2
+    100054: Position
+    100056: Pump
+    100058: //RootNode
+    100060: pasted__pasted__polySurface6
+    100062: polySurface3
+    100064: polySurface4
+    100066: polySurface7
+    100068: polySurface8
+    100070: export
+    100072: group16
+    100074: pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+    100076: pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+    100078: pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+    100080: pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+    100082: pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+    100084: pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+    100086: pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+    100088: pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+    100090: pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+    100092: pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+    100094: pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+    100096: pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+    100098: pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+    100100: pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+    100102: pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+    100104: pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+    100106: pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+    100108: pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+    100110: pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+    100112: pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+    100114: pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+    100116: pasted__pasted__polySurface9
+    100118: pasted__RightArmRoot
+    100120: AK47Melee:ArmMeshes
+    100122: AK47Melee:LeftArmRoot
+    100124: AK47Melee:pasted__pasted__pasted__Forearm_LFT
+    100126: AK47Melee:pasted__pasted__pasted__Index1_LFT
+    100128: AK47Melee:pasted__pasted__pasted__Index2_LFT
+    100130: AK47Melee:pasted__pasted__pasted__Index3_LFT
+    100132: AK47Melee:pasted__pasted__pasted__Index4_LFT
+    100134: AK47Melee:pasted__pasted__pasted__Middle1_LFT
+    100136: AK47Melee:pasted__pasted__pasted__Middle2_LFT
+    100138: AK47Melee:pasted__pasted__pasted__Middle3_LFT
+    100140: AK47Melee:pasted__pasted__pasted__Middle4_LFT
+    100142: AK47Melee:pasted__pasted__pasted__Palm_LFT
+    100144: AK47Melee:pasted__pasted__pasted__pasted__Index1_LFT1
+    100146: AK47Melee:pasted__pasted__pasted__pasted__Index2_LFT1
+    100148: AK47Melee:pasted__pasted__pasted__pasted__Index3_LFT1
+    100150: AK47Melee:pasted__pasted__pasted__pasted__Index4_LFT1
+    100152: AK47Melee:pasted__pasted__pasted__pasted__Middle1_LFT1
+    100154: AK47Melee:pasted__pasted__pasted__pasted__Middle2_LFT1
+    100156: AK47Melee:pasted__pasted__pasted__pasted__Middle3_LFT1
+    100158: AK47Melee:pasted__pasted__pasted__pasted__Middle4_LFT1
+    100160: AK47Melee:pasted__pasted__pasted__pasted__Palm_LFT1
+    100162: AK47Melee:pasted__pasted__pasted__pasted__Pinky1_LFT1
+    100164: AK47Melee:pasted__pasted__pasted__pasted__Pinky2_LFT1
+    100166: AK47Melee:pasted__pasted__pasted__pasted__Pinky3_LFT1
+    100168: AK47Melee:pasted__pasted__pasted__pasted__Pinky4_LFT1
+    100170: AK47Melee:pasted__pasted__pasted__pasted__Ring1_LFT1
+    100172: AK47Melee:pasted__pasted__pasted__pasted__Ring2_LFT1
+    100174: AK47Melee:pasted__pasted__pasted__pasted__Ring3_LFT1
+    100176: AK47Melee:pasted__pasted__pasted__pasted__Ring4_LFT1
+    100178: AK47Melee:pasted__pasted__pasted__pasted__Thumb1_LFT1
+    100180: AK47Melee:pasted__pasted__pasted__pasted__Thumb2_LFT1
+    100182: AK47Melee:pasted__pasted__pasted__pasted__Thumb3_LFT1
+    100184: AK47Melee:pasted__pasted__pasted__pasted__Thumb4_LFT1
+    100186: AK47Melee:pasted__pasted__pasted__Pinky1_LFT
+    100188: AK47Melee:pasted__pasted__pasted__Pinky2_LFT
+    100190: AK47Melee:pasted__pasted__pasted__Pinky3_LFT
+    100192: AK47Melee:pasted__pasted__pasted__Pinky4_LFT
+    100194: AK47Melee:pasted__pasted__pasted__polySurface4
+    100196: AK47Melee:pasted__pasted__pasted__polySurface6
+    100198: AK47Melee:pasted__pasted__pasted__Ring1_LFT
+    100200: AK47Melee:pasted__pasted__pasted__Ring2_LFT
+    100202: AK47Melee:pasted__pasted__pasted__Ring3_LFT
+    100204: AK47Melee:pasted__pasted__pasted__Ring4_LFT
+    100206: AK47Melee:pasted__pasted__pasted__Thumb1_LFT
+    100208: AK47Melee:pasted__pasted__pasted__Thumb2_LFT
+    100210: AK47Melee:pasted__pasted__pasted__Thumb3_LFT
+    100212: AK47Melee:pasted__pasted__pasted__Thumb4_LFT
+    100214: AK47Melee:pasted__polySurface9
+    100216: AK47Melee:RightArmRoot
+    100218: AK47Melee:pasted__pasted__polySurface6
+    100220: gun_base
+    100222: left_hand_mesh
+    100224: right_hand_mesh
+    100226: RightArmRoot
+    100228: group3
+    100230: pasted__polySurface2
+    100232: pasted__RoundShield
+    400000: all
+    400002: Gun
+    400004: LeftArmMesh
+    400006: LeftArmRoot
+    400008: pasted__pasted__pasted__pasted__Index1_LFT
+    400010: pasted__pasted__pasted__pasted__Index2_LFT
+    400012: pasted__pasted__pasted__pasted__Index3_LFT
+    400014: pasted__pasted__pasted__pasted__Index4_LFT
+    400016: pasted__pasted__pasted__pasted__Middle1_LFT
+    400018: pasted__pasted__pasted__pasted__Middle2_LFT
+    400020: pasted__pasted__pasted__pasted__Middle3_LFT
+    400022: pasted__pasted__pasted__pasted__Middle4_LFT
+    400024: pasted__pasted__pasted__pasted__Palm_LFT
+    400026: pasted__pasted__pasted__pasted__Pinky1_LFT
+    400028: pasted__pasted__pasted__pasted__Pinky2_LFT
+    400030: pasted__pasted__pasted__pasted__Pinky3_LFT
+    400032: pasted__pasted__pasted__pasted__Pinky4_LFT
+    400034: pasted__pasted__pasted__pasted__Ring1_LFT
+    400036: pasted__pasted__pasted__pasted__Ring2_LFT
+    400038: pasted__pasted__pasted__pasted__Ring3_LFT
+    400040: pasted__pasted__pasted__pasted__Ring4_LFT
+    400042: pasted__pasted__pasted__pasted__Thumb1_LFT
+    400044: pasted__pasted__pasted__pasted__Thumb2_LFT
+    400046: pasted__pasted__pasted__pasted__Thumb3_LFT
+    400048: pasted__pasted__pasted__pasted__Thumb4_LFT
+    400050: polySurface1
+    400052: polySurface2
+    400054: Position
+    400056: Pump
+    400058: //RootNode
+    400060: pasted__pasted__polySurface6
+    400062: polySurface3
+    400064: polySurface4
+    400066: polySurface7
+    400068: polySurface8
+    400070: export
+    400072: group16
+    400074: pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+    400076: pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+    400078: pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+    400080: pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+    400082: pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+    400084: pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+    400086: pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+    400088: pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+    400090: pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+    400092: pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+    400094: pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+    400096: pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+    400098: pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+    400100: pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+    400102: pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+    400104: pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+    400106: pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+    400108: pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+    400110: pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+    400112: pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+    400114: pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+    400116: pasted__pasted__polySurface9
+    400118: pasted__RightArmRoot
+    400120: AK47Melee:ArmMeshes
+    400122: AK47Melee:LeftArmRoot
+    400124: AK47Melee:pasted__pasted__pasted__Forearm_LFT
+    400126: AK47Melee:pasted__pasted__pasted__Index1_LFT
+    400128: AK47Melee:pasted__pasted__pasted__Index2_LFT
+    400130: AK47Melee:pasted__pasted__pasted__Index3_LFT
+    400132: AK47Melee:pasted__pasted__pasted__Index4_LFT
+    400134: AK47Melee:pasted__pasted__pasted__Middle1_LFT
+    400136: AK47Melee:pasted__pasted__pasted__Middle2_LFT
+    400138: AK47Melee:pasted__pasted__pasted__Middle3_LFT
+    400140: AK47Melee:pasted__pasted__pasted__Middle4_LFT
+    400142: AK47Melee:pasted__pasted__pasted__Palm_LFT
+    400144: AK47Melee:pasted__pasted__pasted__pasted__Index1_LFT1
+    400146: AK47Melee:pasted__pasted__pasted__pasted__Index2_LFT1
+    400148: AK47Melee:pasted__pasted__pasted__pasted__Index3_LFT1
+    400150: AK47Melee:pasted__pasted__pasted__pasted__Index4_LFT1
+    400152: AK47Melee:pasted__pasted__pasted__pasted__Middle1_LFT1
+    400154: AK47Melee:pasted__pasted__pasted__pasted__Middle2_LFT1
+    400156: AK47Melee:pasted__pasted__pasted__pasted__Middle3_LFT1
+    400158: AK47Melee:pasted__pasted__pasted__pasted__Middle4_LFT1
+    400160: AK47Melee:pasted__pasted__pasted__pasted__Palm_LFT1
+    400162: AK47Melee:pasted__pasted__pasted__pasted__Pinky1_LFT1
+    400164: AK47Melee:pasted__pasted__pasted__pasted__Pinky2_LFT1
+    400166: AK47Melee:pasted__pasted__pasted__pasted__Pinky3_LFT1
+    400168: AK47Melee:pasted__pasted__pasted__pasted__Pinky4_LFT1
+    400170: AK47Melee:pasted__pasted__pasted__pasted__Ring1_LFT1
+    400172: AK47Melee:pasted__pasted__pasted__pasted__Ring2_LFT1
+    400174: AK47Melee:pasted__pasted__pasted__pasted__Ring3_LFT1
+    400176: AK47Melee:pasted__pasted__pasted__pasted__Ring4_LFT1
+    400178: AK47Melee:pasted__pasted__pasted__pasted__Thumb1_LFT1
+    400180: AK47Melee:pasted__pasted__pasted__pasted__Thumb2_LFT1
+    400182: AK47Melee:pasted__pasted__pasted__pasted__Thumb3_LFT1
+    400184: AK47Melee:pasted__pasted__pasted__pasted__Thumb4_LFT1
+    400186: AK47Melee:pasted__pasted__pasted__Pinky1_LFT
+    400188: AK47Melee:pasted__pasted__pasted__Pinky2_LFT
+    400190: AK47Melee:pasted__pasted__pasted__Pinky3_LFT
+    400192: AK47Melee:pasted__pasted__pasted__Pinky4_LFT
+    400194: AK47Melee:pasted__pasted__pasted__polySurface4
+    400196: AK47Melee:pasted__pasted__pasted__polySurface6
+    400198: AK47Melee:pasted__pasted__pasted__Ring1_LFT
+    400200: AK47Melee:pasted__pasted__pasted__Ring2_LFT
+    400202: AK47Melee:pasted__pasted__pasted__Ring3_LFT
+    400204: AK47Melee:pasted__pasted__pasted__Ring4_LFT
+    400206: AK47Melee:pasted__pasted__pasted__Thumb1_LFT
+    400208: AK47Melee:pasted__pasted__pasted__Thumb2_LFT
+    400210: AK47Melee:pasted__pasted__pasted__Thumb3_LFT
+    400212: AK47Melee:pasted__pasted__pasted__Thumb4_LFT
+    400214: AK47Melee:pasted__polySurface9
+    400216: AK47Melee:RightArmRoot
+    400218: AK47Melee:pasted__pasted__polySurface6
+    400220: gun_base
+    400222: left_hand_mesh
+    400224: right_hand_mesh
+    400226: RightArmRoot
+    400228: group3
+    400230: pasted__polySurface2
+    400232: pasted__RoundShield
+    2300000: polySurface1
+    2300002: polySurface2
+    2300004: Pump
+    2300006: pasted__pasted__polySurface6
+    2300008: polySurface3
+    2300010: polySurface4
+    2300012: polySurface7
+    2300014: polySurface8
+    2300016: pasted__polySurface2
+    2300018: pasted__RoundShield
+    2300020: LeftArmMesh
+    3300000: polySurface1
+    3300002: polySurface2
+    3300004: Pump
+    3300006: pasted__pasted__polySurface6
+    3300008: polySurface3
+    3300010: polySurface4
+    3300012: polySurface7
+    3300014: polySurface8
+    3300016: pasted__polySurface2
+    3300018: pasted__RoundShield
+    3300020: LeftArmMesh
+    4300000: pasted__pasted__pasted__polySurface6
+    4300002: pasted__polySurface13
+    4300004: pasted__polySurface16
+    4300006: pasted__polySurface35
+    4300008: pasted__polySurface36
+    4300010: pasted__870mcs_side shells
+    4300012: polySurface1
+    4300014: polySurface2
+    4300016: transform1
+    4300018: polySurface3
+    4300020: polySurface4
+    4300022: polySurface5
+    4300024: polySurface6
+    4300026: polySurface7
+    4300028: polySurface18
+    4300030: pasted__polySurface37
+    4300032: pasted__polySurface38
+    4300034: pasted__polySurface18
+    4300036: pasted__polySurface19
+    4300038: polySurface19
+    4300040: polySurface36
+    4300042: polySurface37
+    4300044: polySurface90
+    4300046: polySurface339
+    4300048: polySurface338
+    4300050: polySurface87
+    4300052: pasted__polySurface39
+    4300054: polySurface88
+    4300056: transform44
+    4300058: transform43
+    4300060: transform42
+    4300062: transform41
+    4300064: transform40
+    4300066: transform39
+    4300068: transform38
+    4300070: transform37
+    4300072: transform36
+    4300074: polySurface340
+    4300076: polySurface493
+    4300078: polySurface494
+    4300080: polySurface495
+    4300082: polySurface337
+    4300084: transform35
+    4300086: polySurface529
+    4300088: polySurface530
+    4300090: polySurface531
+    4300092: pasted__polySurface22
+    4300094: polySurface532
+    4300096: polySurface539
+    4300098: polySurface546
+    4300100: polySurface552
+    4300102: transform12
+    4300104: transform11
+    4300106: transform10
+    4300108: transform9
+    4300110: polySurface544
+    4300112: transform8
+    4300114: transform3
+    4300116: polySurface537
+    4300118: polySurface536
+    4300120: transform2
+    4300122: polySurface534
+    4300124: polySurface533
+    4300126: polySurface553
+    4300128: polySurface554
+    4300130: transform13
+    4300132: polySurface545
+    4300134: pasted__receiver03
+    4300136: pasted__pasted__polySurface9
+    4300138: polySurface556
+    4300140: polySurface555
+    4300142: polySurface557
+    4300144: polySurface558
+    4300146: pasted__polySurface3
+    4300148: pasted__polySurface40
+    4300150: polySurface560
+    4300152: polySurface559
+    4300154: polySurface568
+    4300156: polySurface570
+    4300158: polySurface569
+    4300160: polySurface565
+    4300162: polySurface571
+    4300164: pasted__pasted__polySurface40
+    4300166: pasted__Benilli_Ultra_Light
+    4300168: pasted__breech_unit
+    4300170: polySurface572
+    4300172: transform7
+    4300174: transform6
+    4300176: transform5
+    4300178: polySurface581
+    4300180: polySurface583
+    4300182: polySurface582
+    4300184: pasted__polySurface597
+    4300186: polySurface592
+    4300188: polySurface597
+    4300190: polySurface598
+    4300192: Pump
+    4300194: GunMain
+    4300196: LeftArmMesh
+    4300198: pasted__pasted__polySurface6
+    4300200: polySurface8
+    4300202: AK47Melee:pasted__polySurface9
+    4300204: AK47Melee:pasted__pasted__polySurface6
+    4300206: left_hand_mesh
+    4300208: pasted__polySurface2
+    4300210: pasted__RoundShield
+    7400000: Melee
+    7400010: Fire
+    7400012: Reload
+    7400014: Ready
+    7400016: Neutral
+    11100000: //RootNode
+    13700000: LeftArmMesh
+    13700002: pasted__pasted__polySurface9
+    13700004: AK47Melee:pasted__polySurface9
+    13700006: AK47Melee:pasted__pasted__polySurface6
+    13700008: left_hand_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire
+      takeName: 
+      firstFrame: 1
+      lastFrame: 54
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reload
+      takeName: 
+      firstFrame: 65
+      lastFrame: 105
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ready
+      takeName: 
+      firstFrame: 2
+      lastFrame: 52
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Neutral
+      takeName: 
+      firstFrame: 77
+      lastFrame: 83
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Melee
+      takeName: Take 001
+      firstFrame: 106
+      lastFrame: 129
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: export
+        weight: 1
+      - path: export/Position
+        weight: 1
+      - path: export/Position/all
+        weight: 1
+      - path: export/Position/all/Gun
+        weight: 1
+      - path: export/Position/all/Gun/polySurface1
+        weight: 1
+      - path: export/Position/all/Gun/polySurface2
+        weight: 1
+      - path: export/Position/all/Gun/polySurface2/polySurface3
+        weight: 1
+      - path: export/Position/all/Gun/polySurface2/polySurface7
+        weight: 1
+      - path: export/Position/all/Gun/polySurface2/polySurface8
+        weight: 1
+      - path: export/Position/all/Gun/Pump
+        weight: 1
+      - path: export/Position/all/LeftArmRoot
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Index1_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__pasted__Index2_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__pasted__Index3_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Index1_LFT/pasted__pasted__pasted__pasted__Index2_LFT/pasted__pasted__pasted__pasted__Index3_LFT/pasted__pasted__pasted__pasted__Index4_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Middle1_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__pasted__Middle2_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__pasted__Middle3_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Middle1_LFT/pasted__pasted__pasted__pasted__Middle2_LFT/pasted__pasted__pasted__pasted__Middle3_LFT/pasted__pasted__pasted__pasted__Middle4_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Pinky1_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__pasted__Pinky2_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__pasted__Pinky3_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Pinky1_LFT/pasted__pasted__pasted__pasted__Pinky2_LFT/pasted__pasted__pasted__pasted__Pinky3_LFT/pasted__pasted__pasted__pasted__Pinky4_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Ring1_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__pasted__Ring2_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__pasted__Ring3_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Ring1_LFT/pasted__pasted__pasted__pasted__Ring2_LFT/pasted__pasted__pasted__pasted__Ring3_LFT/pasted__pasted__pasted__pasted__Ring4_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Thumb1_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__pasted__Thumb2_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__pasted__Thumb3_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__pasted__pasted__Palm_LFT/pasted__pasted__pasted__pasted__Thumb1_LFT/pasted__pasted__pasted__pasted__Thumb2_LFT/pasted__pasted__pasted__pasted__Thumb3_LFT/pasted__pasted__pasted__pasted__Thumb4_LFT
+        weight: 1
+      - path: export/Position/all/LeftArmRoot/pasted__pasted__polySurface6
+        weight: 1
+      - path: group16
+        weight: 1
+      - path: group16/pasted__pasted__polySurface9
+        weight: 1
+      - path: group16/pasted__RightArmRoot
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Index1_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__Index2_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__Index3_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Index1_LFT1/pasted__pasted__pasted__pasted__pasted__Index2_LFT1/pasted__pasted__pasted__pasted__pasted__Index3_LFT1/pasted__pasted__pasted__pasted__pasted__Index4_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Middle1_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__Middle2_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__Middle3_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Middle1_LFT1/pasted__pasted__pasted__pasted__pasted__Middle2_LFT1/pasted__pasted__pasted__pasted__pasted__Middle3_LFT1/pasted__pasted__pasted__pasted__pasted__Middle4_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky1_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky2_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky3_LFT1/pasted__pasted__pasted__pasted__pasted__Pinky4_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Ring1_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__Ring2_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__Ring3_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Ring1_LFT1/pasted__pasted__pasted__pasted__pasted__Ring2_LFT1/pasted__pasted__pasted__pasted__pasted__Ring3_LFT1/pasted__pasted__pasted__pasted__pasted__Ring4_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1
+        weight: 1
+      - path: group16/pasted__RightArmRoot/pasted__pasted__pasted__pasted__pasted__Palm_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb1_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb2_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb3_LFT1/pasted__pasted__pasted__pasted__pasted__Thumb4_LFT1
+        weight: 1
+      - path: LeftArmMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

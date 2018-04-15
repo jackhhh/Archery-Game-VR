@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vive-FPS-FULL.Plugins", "Vive-FPS-FULL.Plugins.csproj", "{B3A3632E-1E8E-C07A-11BB-6476FF70FFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vive-FPS-FULL", "Vive-FPS-FULL.csproj", "{B43CC8E4-3342-4C67-CC8F-AF8C827F8371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vive-FPS-FULL.Editor", "Vive-FPS-FULL.Editor.csproj", "{DE66A8F7-815E-3911-32F4-D86C16E172E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A3632E-1E8E-C07A-11BB-6476FF70FFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A3632E-1E8E-C07A-11BB-6476FF70FFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A3632E-1E8E-C07A-11BB-6476FF70FFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A3632E-1E8E-C07A-11BB-6476FF70FFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43CC8E4-3342-4C67-CC8F-AF8C827F8371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43CC8E4-3342-4C67-CC8F-AF8C827F8371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43CC8E4-3342-4C67-CC8F-AF8C827F8371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43CC8E4-3342-4C67-CC8F-AF8C827F8371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE66A8F7-815E-3911-32F4-D86C16E172E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE66A8F7-815E-3911-32F4-D86C16E172E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE66A8F7-815E-3911-32F4-D86C16E172E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE66A8F7-815E-3911-32F4-D86C16E172E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
